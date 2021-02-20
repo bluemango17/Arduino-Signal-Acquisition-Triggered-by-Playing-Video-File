@@ -1,5 +1,5 @@
 # Acquisition detector
-This python script was made as an idea to synchronize start of playing video file with start of acquisition of (EEG) data from arduino microcontroller.
+This python script was made as an idea to synchronize start of playing video file with start of acquisition of (EEG) data, from arduino microcontroller.
 It is realized as an intership project on University of Belgrade, School of Electrical Engineering, under the mentorship of professor PhD Nadica Miljković.
 
 **Instalation**
@@ -37,6 +37,6 @@ void setup() {
 ```
 
 In this case 115200 is typed in Entry box and "Set" button is pressed. After that, acquisition will start if "Start" button is pressed or if any video is played via GOM player.
-Acuisition can be stopped in the same fashon, that is, if "Stop" button is pressed or GOM player is turned off. In that case plot pauses and can be resumed with start button or with playing video (via GOM player).
+Acuisition can be stopped in the same fashion, that is, if "Stop" button is pressed or GOM player is turned off. In that case plot pauses and can be resumed with start button or with playing video (via GOM player).
 
 With every new acquisition start, new txt file is created, with date and time as a title (when acquisition started). In that txt file, data from current acquisition session is being stored.
