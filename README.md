@@ -8,6 +8,9 @@ It is realized as an intership project on University of Belgrade, School of Elec
 Libraries:
 
 [watchdog](https://pypi.org/project/watchdog/)
+
 [NumPy](https://numpy.org/install/)
+
 [matplotlib](https://matplotlib.org/stable/users/installing.html)
+
 [pySerial](https://pyserial.readthedocs.io/en/latest/pyserial.html#installation)
