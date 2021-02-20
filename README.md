@@ -28,7 +28,7 @@ pip install numpy==1.19.3
 
 [GUI](http://prntscr.com/101zdd3)
 
-To enter correct baud rate arduino code must be checked:
+To enter correct baud rate, arduino code must be checked:
 
 ```
 void setup() {
