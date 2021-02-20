@@ -14,3 +14,5 @@ Libraries:
 [matplotlib](https://matplotlib.org/stable/users/installing.html)
 
 [pySerial](https://pyserial.readthedocs.io/en/latest/pyserial.html#installation)
+
+[pyinstaller](https://pyinstaller.readthedocs.io/en/stable/installation.html)(for application building)
