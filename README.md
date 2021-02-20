@@ -15,4 +15,10 @@ Libraries:
 
 [pySerial](https://pyserial.readthedocs.io/en/latest/pyserial.html#installation)
 
-[pyinstaller](https://pyinstaller.readthedocs.io/en/stable/installation.html)(for application building)
+[pyinstaller](https://pyinstaller.readthedocs.io/en/stable/installation.html) (for application building)
+
+If numpy causes trouble during build up:
+```
+pip install numpy==1.19.3
+```
+
