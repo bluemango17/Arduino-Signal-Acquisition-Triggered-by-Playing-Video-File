@@ -37,5 +37,5 @@ void setup() {
 ```
 
 In this case 115200 is typed in Entry box and Set button is pressed. After that acquisition will Start if start button is pressed or if any video is played via GOM player.
-Acuisition can be stopped in the same fashon, that is Stop button is pressed or GOM player is turned off. In that case plot pauses and can be resumed with start button or with playing video.
+Acuisition can be stopped in the same fashon, that is, Stop button is pressed or GOM player is turned off. In that case plot pauses and can be resumed with start button or with playing video (via GOM player).
 
