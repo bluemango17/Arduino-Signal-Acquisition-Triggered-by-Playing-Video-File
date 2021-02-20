@@ -1,4 +1,4 @@
-## acquisition detector
+# acquisition detector
 This python script was made as an idea to synchrionize start of playing video file with start of acquisition of (EEG) data from arduino microcontroller.
 It is realized as an intership project on University of Belgrade, School of Electrical Engineering, under the mentorship of professor PhD Nadica Miljković.
 
@@ -19,7 +19,11 @@ Libraries:
 [pyinstaller](https://pyinstaller.readthedocs.io/en/stable/installation.html) (for application building)
 
 If numpy causes trouble during build up:
+
 ```
 pip install numpy==1.19.3
 ```
 
+**Usage**
+
+[GUI](http://prntscr.com/101zdd3)
