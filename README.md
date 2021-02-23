@@ -1,6 +1,6 @@
 # Acquisition detector
 This python script was made as an idea to synchronize start of playing video file with start of acquisition of (EEG) data, from arduino microcontroller.
-It is realized as an intership project on [University of Belgrade, School of Electrical Engineering](https://www.etf.bg.ac.rs/en), under the mentorship of [professor PhD Nadica Miljković](https://github.com/NadicaSm).
+It is realized as an intership project on [University of Belgrade, School of Electrical Engineering](https://www.etf.bg.ac.rs/en) by Dušan Stojković, under the mentorship of [professor PhD Nadica Miljković](https://github.com/NadicaSm).
 
 **Instalation**
 
