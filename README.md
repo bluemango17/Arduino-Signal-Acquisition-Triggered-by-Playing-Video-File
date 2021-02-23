@@ -1,6 +1,6 @@
 # Acquisition detector
 This python script was made as an idea to synchronize start of playing video file with start of acquisition of (EEG) data, from arduino microcontroller.
-It is realized as an intership project on University of Belgrade, School of Electrical Engineering, under the mentorship of professor PhD Nadica Miljković.
+It is realized as an intership project on [University of Belgrade, School of Electrical Engineering](https://www.etf.bg.ac.rs/en), under the mentorship of [professor PhD Nadica Miljković](https://github.com/NadicaSm).
 
 **Instalation**
 
@@ -28,7 +28,7 @@ pip install numpy==1.19.3
 
 [GUI](http://prntscr.com/101zdd3)
 
-To enter correct baud rate, arduino code must be checked:
+To enter correct baud rate, [arduino code](http://automatika.etf.rs/images/FAJLOVI_srpski/predmeti/izborni_kursevi_os/biomedicinsko_inzenjerstvo/OS4_OF4_MS1_KLI/laboratorijske_vezbe/2018/AP%20primer.zip) must be checked:
 
 ```
 void setup() {
